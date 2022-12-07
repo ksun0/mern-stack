@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ksun0/mern-stack#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.17.3"
   }
 }
